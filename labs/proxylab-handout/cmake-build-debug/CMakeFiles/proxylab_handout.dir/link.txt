@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/proxylab_handout.dir/tiny/cgi-bin/adder.c.o CMakeFiles/proxylab_handout.dir/tiny/csapp.c.o CMakeFiles/proxylab_handout.dir/tiny/tiny.c.o CMakeFiles/proxylab_handout.dir/csapp.c.o CMakeFiles/proxylab_handout.dir/proxy.c.o  -o proxylab_handout 

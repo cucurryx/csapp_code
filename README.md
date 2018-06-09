@@ -8,4 +8,4 @@
 - [x] cache lab
 - [ ] shell lab
 - [ ] malloc lab
-- [ ] proxy lab
+- [x] proxy lab
